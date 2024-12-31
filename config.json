@@ -1,0 +1,7 @@
+{
+    "Settings": {
+        "music_directory": "C:\\\\Users\\\\HackerAV\\\\Music",
+        "weather_api_key": "bbe7ade5f540103d3c38a09f28beee65",
+        "ai_model": "llama3.2:1b"
+    }
+}
